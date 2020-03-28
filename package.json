@@ -1,0 +1,23 @@
+{
+  "name": "n",
+  "version": "1.0.0",
+  "description": "bootstrap intro2 lotr",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "\u001b\u0016\u0016 https://github.com/GeeskeBoer/bootstrapintro2-lotr.git"
+  },
+  "keywords": [
+    "bootstrap",
+    "intro2",
+    "lotr"
+  ],
+  "author": "GB",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^4.4.1"
+  }
+}
